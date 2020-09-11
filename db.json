@@ -2,7 +2,7 @@
     "carparks": [
         {
             "id": 1,
-            "parked": "Rachel Hiew"
+            "parked": "rachel"
         },
         {
             "id": 2,
@@ -10,7 +10,7 @@
         },
         {
             "id": 3,
-            "parked": "Keiran Stokes"
+            "parked": "keiran"
         }
     ]
 }
