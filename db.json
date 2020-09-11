@@ -1,0 +1,16 @@
+{
+    "carparks": [
+        {
+            "id": 1,
+            "parked": "Rachel Hiew"
+        },
+        {
+            "id": 2,
+            "parked": "Free"
+        },
+        {
+            "id": 3,
+            "parked": "Keiran Stokes"
+        }
+    ]
+}
